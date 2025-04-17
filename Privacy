@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Doe Station Privacy Policy</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 2rem auto; line-height: 1.6; }
+    h1 { text-align: center; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Doe Station (“we”, “us”) respects your privacy. This policy explains what data we collect, how we use it, and your rights.</p>
+  <h2>1. Data Collected</h2>
+  <ul>
+    <li><strong>Social Media Metrics</strong>: We fetch only publicly accessible stats (views, watch time, likes, subscribers) from your own YouTube, TikTok, and Instagram accounts via their official APIs.</li>
+    <li><strong>Local Logs</strong>: Your session logs (timestamp, device type) are stored locally in your browser or local folder; we do not transmit them anywhere.</li>
+  </ul>
+  <h2>2. How We Use Your Data</h2>
+  <p>We use your metrics solely to display on your private dashboard and to generate AI‑driven tips. We do not share, sell, or otherwise distribute your data.</p>
+  <h2>3. Data Retention & Deletion</h2>
+  <p>Your data stays on your machine. To delete it, simply clear the local folder or browser storage for Doe Station.</p>
+  <h2>4. Third‑Party Services</h2>
+  <p>We integrate with YouTube, TikTok, and Instagram APIs; please review their privacy policies for how they handle your information.</p>
+  <h2>5. Contact Us</h2>
+  <p>For any questions or data deletion requests, contact <a href="mailto:therealjohndoe5100@gmail.com">therealjohndoe5100@gmail.com</a>.</p>
+</body>
+</html>
