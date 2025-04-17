@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Doe Station Terms of Service</title>
+  <style>
+    body { font-family: Arial, sans-serif; max-width: 800px; margin: 2rem auto; line-height: 1.6; }
+    h1 { text-align: center; }
+  </style>
+</head>
+<body>
+  <h1>Terms of Service</h1>
+  <p>Welcome to Doe Station. By using this dashboard, you agree to the following terms:</p>
+  <ol>
+    <li><strong>Permitted Use</strong>: You may only use Doe Station to view and analyze your own social‑media metrics.</li>
+    <li><strong>Data Privacy</strong>: All data fetched via YouTube, TikTok, and Instagram APIs is displayed only to you and not shared with third parties.</li>
+    <li><strong>Prohibited Actions</strong>: You may not scrape, redistribute, or repost data without consent of the original content owner.</li>
+    <li><strong>Liability</strong>: Doe Station is provided “as‑is” with no warranties. Use at your own risk.</li>
+    <li><strong>Modifications</strong>: We may update these terms at any time; your continued use constitutes acceptance of any changes.</li>
+  </ol>
+  <p>If you have questions, contact <a href="mailto:therealjohndoe5100@gmail.com">therealjohndoe5100@gmail.com</a>.</p>
+</body>
+</html>
